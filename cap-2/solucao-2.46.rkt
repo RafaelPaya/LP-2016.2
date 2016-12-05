@@ -20,4 +20,4 @@
 
 (define (scale-vet s vet) 
   (make-vet (* s (xcor-vet vet)) 
-             (* s (ycor-vet vet)))) 
+             (* s (ycor-vet vet))))
